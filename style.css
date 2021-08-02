@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    margin: 5px;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: lower-greek;
+}
